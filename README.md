@@ -10,7 +10,6 @@ Hi there! My name is Daksh Deep and I am a new developer who is currently learni
 * ✉️  You can contact me at [Twitter](https://twitter.com/DevDotDaksh)
 * 🧠  I'm learning Kotlin/AI and ML
 * 🤝  I'm open to collaborating on Interesting projects
-* 🤝  Always looking to meet like minded people
 
 ### Skills
 
