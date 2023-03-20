@@ -11,7 +11,7 @@ Hi there! My name is Daksh Deep and I am a new developer who is currently learni
 * 🧠  I'm learning Kotlin/AI and ML
 * 🤝  I'm open to collaborating on Interesting projects
 
-Right now I'm learning flutter for Github Octernship.
+Right now I'm learning flutter for Github Octernship. Working on appwrite project.
 ### Skills
 
 
