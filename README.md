@@ -8,7 +8,7 @@ Hi there! My name is Daksh Deep and I am a new developer who is currently learni
 
 * 🌍  I'm based in New Delhi,India
 * ✉️  You can contact me at [https://twitter.com/DevDotDaksh](mailto:https://twitter.com/DevDotDaksh)
-* 🧠  I'm learning Flutter, AI/ML and Blender as my hobby.
+* 🧠  I'm learning Kotlin
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills
@@ -41,4 +41,4 @@ Hi there! My name is Daksh Deep and I am a new developer who is currently learni
 
 <a href="http://www.github.com/dakshdeepHERE"><img src="https://github-readme-stats.vercel.app/api?username=dakshdeepHERE&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=0891b2&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="dakshdeepHERE's GitHub stats" /></a>
 
-<a href="http://www.github.com/dakshdeepHERE"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=dakshdeepHERE&bg_color=1c1917&color=0891b2&line=ef4444&point=0891b2&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/dakshdeepHERE" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshdeepHERE&langs_count=10&title_color=22c55e&text_color=0891b2&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
