@@ -1,5 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My name is Daksha Deep
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daksha Deep
 ===================================================================================================================================
 
 Android Dev. Into AI and ML. Student
@@ -9,7 +8,7 @@ Hi there! My name is Daksh Deep and I am a new developer who is currently learni
 
 * 🌍  I'm based in New Delhi,India
 * ✉️  You can contact me at [https://twitter.com/DevDotDaksh](mailto:https://twitter.com/DevDotDaksh)
-* 🧠  I'm learning Flutter/Dart, AI/ML and Blender as my side hobby.
+* 🧠  I'm learning Flutter, AI/ML and Blender as my hobby.
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills
@@ -41,7 +40,5 @@ Hi there! My name is Daksh Deep and I am a new developer who is currently learni
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/dakshdeepHERE"><img src="https://github-readme-stats.vercel.app/api?username=dakshdeepHERE&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=0891b2&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="dakshdeepHERE's GitHub stats" /></a>
-
-<a href="http://www.github.com/dakshdeepHERE"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshdeepHERE&stroke=0891b2&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=0891b2&currStreakLabel=22c55e&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
 <a href="http://www.github.com/dakshdeepHERE"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=dakshdeepHERE&bg_color=1c1917&color=0891b2&line=ef4444&point=0891b2&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
