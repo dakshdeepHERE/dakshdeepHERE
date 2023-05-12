@@ -40,5 +40,3 @@ Hi there! My name is Daksh Deep and I am a new developer who is currently learni
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/dakshdeepHERE"><img src="https://github-readme-stats.vercel.app/api?username=dakshdeepHERE&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=0891b2&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="dakshdeepHERE's GitHub stats" /></a>
-
-<a href="https://github.com/dakshdeepHERE" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshdeepHERE&langs_count=10&title_color=22c55e&text_color=0891b2&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
