@@ -8,7 +8,7 @@ Hi there! My name is Daksh Deep and I am a new developer who is currently learni
 
 * 🌍  I'm based in New Delhi,India
 * ✉️  You can contact me at [https://twitter.com/DevDotDaksh](mailto:https://twitter.com/DevDotDaksh)
-* 🧠  I'm learning Flutter, AI/ML and learning Blender as my side hobby.
+* 🧠  I'm learning Flutter, Kotlin, AI/ML and learning Blender as my side hobby.
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills
