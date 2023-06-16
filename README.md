@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daksha Deep
 ===================================================================================================================================
 
-Android Dev. Into AI and ML. Student
-------------------------------------
+Android Dev. | AI/ML | Exploring Blender |
+------------------------------------------
 
 Hi there! My name is Daksh Deep and I am a new developer who is currently learning Android development. I have always been interested in technology and have a passion for creating innovative solutions to problems. In addition to Android development, I am also interested in artificial intelligence and machine learning. I am constantly seeking to improve my skills and expand my knowledge in these areas. In my free time, I enjoy tinkering with new technologies, tackling challenging problems and contributing in open source. I am excited to continue my journey in the field of technology and am looking forward to working on interesting projects and collaborating with like-minded individuals.
 
