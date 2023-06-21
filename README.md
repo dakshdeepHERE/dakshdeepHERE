@@ -9,7 +9,7 @@ Hi there! My name is Daksh Deep and I am a new developer who is currently learni
 * ✉️  You can contact me at [https://twitter.com/DevDotDaksh](mailto:https://twitter.com/DevDotDaksh)
 * 🧠  I'm learning Flutter, Kotlin, AI/ML and learning Blender as my side hobby.
 * 🤝  I'm open to collaborating on Interesting projects
-* I am currently working on a personal project based on Flutter and Firebase to make an Android app.
+* 📱  I am currently working on a personal project based on Flutter and Firebase to make an Android app.
 
 ### Skills
 
