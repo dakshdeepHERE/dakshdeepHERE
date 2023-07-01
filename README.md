@@ -3,8 +3,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daksha Deep
 ===================================================================================================================================
 
+[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)]()
+
+
 Android Dev. | AI/ML | Exploring Blender |
 ------------------------------------------
+
 
 Hi there! My name is Daksh Deep and I am a new developer who is currently learning Android development. I have always been interested in technology and have a passion for creating innovative solutions to problems. In addition to Android development, I am also interested in artificial intelligence and machine learning. I am constantly seeking to improve my skills and expand my knowledge in these areas. In my free time, I enjoy tinkering with new technologies, tackling challenging problems and contributing in open source. I am excited to continue my journey in the field of technology and am looking forward to working on interesting projects and collaborating with like-minded individuals.
 
