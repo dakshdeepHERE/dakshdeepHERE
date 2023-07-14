@@ -4,10 +4,7 @@
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=1800&color=00f200&width=535&lines=Hi,+I'm+Daksh;I'm+an+App+Developer;+A+Content+Writer;+Into+UI/UX;Checkout+my+Projects;WBU?;let's+Connect!"  alt="Follow your Dreams!"/>
 </div>
 
-
-Android Dev. | AI/ML | Exploring Blender |
-------------------------------------------
-
+# Introduction
 
 Hi there! My name is Daksh Deep and I am a new developer who is currently learning Android development. I have always been interested in technology and have a passion for creating innovative solutions to problems. In addition to Android development, I am also interested in artificial intelligence and machine learning. I am constantly seeking to improve my skills and expand my knowledge in these areas. In my free time, I enjoy tinkering with new technologies, tackling challenging problems and contributing in open source. I am excited to continue my journey in the field of technology and am looking forward to working on interesting projects and collaborating with like-minded individuals.
 
