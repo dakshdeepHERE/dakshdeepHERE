@@ -1,7 +1,8 @@
 <p align="center"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg"></p>
 
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi, my name is Daksha Deep
-===================================================================================================================================
+<div style="text-align: center;"> 
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=1800&color=00f200&width=535&lines=Hi,+I'm+Daksh;I'm+an+App+Developer;+A+Content+Writer;+Into+UI/UX;Checkout+my+Projects;WBU?;let's+Connect!"  alt="Follow your Dreams!"/>
+</div>
 
 
 Android Dev. | AI/ML | Exploring Blender |
